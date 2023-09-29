@@ -2,21 +2,21 @@ url: https://jas2908.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
+title: Jaspreet Kaur
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jaspreet Kaur
   pic: 1
-  position: Lead Designer
+  position: Student
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: linkedin
+      url: #www.linkedin.com/in/jaspreet-kaur-709a26275
+    - title: github
+      url: #https://github.com/jas2908
     - title: stack-overflow
       url: #
 
@@ -29,7 +29,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: # 
 
 - name: Diana Petersen
   pic: 3
